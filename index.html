@@ -1,6 +1,42 @@
+<!DOCTYPE html>
 <html>
-  <header><title>BIG</title></header>
+  <meta http-equiv="Content-Type" charset='utf-8'>
+  <head>
+    <link rel="icon" href="https://www.hokej.cz/files/logos/zbgd2-cze.png">
+    <title>Kde leží?</title>
+    <link href="mapa.css" rel="stylesheet">
+    <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+  </head>
   <body>
-    Hello world!
+      <div class="konec">
+        <div id="otazka"></div>
+        <p></p>
+        <div id="body"></div>
+        <div id="cas"></div>
+        <div id="score"></div><br>
+        <div id ="global_rank" style="display: none;"></div>
+        <button id="reset_score" style="visibility: hidden;" onclick="reset()">RESETOVAT TOP SKÓRE</button>
+      </div>
+      <div class="tlacitko">
+        <img type="button" id="start" onclick="show_buttons()" src="kdelezib1.png">
+      </div>
+      <div id="diff" style="display: none;" class="obtiznosti">
+        <img type="button" id="lehka" onclick="vybrano_lehke()" src="lehká.png"> <br> <br>
+        <img type="button" id="stredni" onclick="vybrano_stredni()" src="těžká.png">
+      </div>
+      <div id="zebricek"> </div>
+      <button id="hide_zebricek" style="display: none;" onclick="hide_ladder()"> ZPĚT </button>
+      <button id="show_zebricek" onclick="show_zebricek_buttons()">ŽEBŘÍČEK</button>
+      <img type="button" id="lehka_zebricek" style="display: none;" onclick="ladder(0)" src="lehká.png"> <br> <br>
+      <img type="button" id="stredni_zebricek" style="display: none;" onclick="ladder(1)" src="těžká.png">
+      <div id="tečka" style="visibility: hidden;"></div>
+      <div class="container">
+        <img id="img" style="visibility: hidden;" src="mapa2_definitive_edition.jpg" alt="obrazek">
+        <div class="texty">
+          <div id="vysledek"></div>
+          <img type="button" id="dalsi" onclick="vyber()" src="bdalsi.png" style="visibility: hidden;" ></img>
+        </div>
+      </div>
+    <script src="mapa.js"></script>
   </body>
 </html>

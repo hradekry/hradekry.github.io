@@ -1,0 +1,14 @@
+Praha;559;387
+České Budějovice;553;736
+Brno;1065;672
+Ostrava;1457;462
+Olomouc;1216;540
+Hradec Králové;877;340
+Plzeň;298;480
+Karlovy Vary;185;318
+Ústí nad Labem;459;187
+Liberec;699;161
+Pardubice;862;400
+Jihlava;822;603
+Zlín;1315;659
+Kladno;472;358

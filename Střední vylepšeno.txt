@@ -1,0 +1,206 @@
+Klatovy;271;596
+Tachov;124;458
+Stříbro;209;479
+Domažlice;185;579
+Horšovský Týn;195;553
+Stod;247;519
+Nýřany;254;494
+Přeštice;286;537
+Blovice;333;539
+Nepomuk;344;567
+Horažďovice;370;622
+Sušice;327;649
+Kralovice;326;408
+Rokycany;351;484
+Plzeň;298;486
+Jablunkov;1576;528
+Třinec;1552;497
+Český Těšín;1529;478
+Karviná;1518;442
+Orlová;1494;441
+Bohumín;1477;424
+Hlučín;1437;433
+Kravaře;1393;421
+Opava;1366;422
+Krnov;1318;373
+Rýmařov;1220;426
+Bruntál;1261;409
+Vítkov;1330;476
+Odry;1351;511
+Nový Jičín;1395;529
+Bílovec;1399;478
+Kopřivnice;1426;530
+Frenštát pod Radhoštem;1446;543
+Frýdlant nad Ostravicí;1478;533
+Frýdek-Místek;1474;499
+Havířov;1500;470
+Ostrava;1456;454
+Uherský Brod;1315;722
+Luhačovice;1342;693
+Valašské Klobouky;1402;678
+Vizovice;1363;655
+Vsetín;1395;614
+Rožnov pod Radhoštěm;1430;572
+Valašské Meziříčí;1388;570
+Bystřice pod Hostýnem;1315;596
+Holešov;1293;622
+Kroměříž;1251;635
+Uherské Hradiště;1270;707
+Otrokovice;1286;661
+Zlín;1313;656
+Znojmo;934;786
+Mikulov;1074;796
+Břeclav;1135;812
+Hodonín;1188;778
+Veselí nad Moravou;1251;746
+Kyjov;1189;728
+Bučovice;1159;684
+Vyškov;1157;640
+Blansko;1072;614
+Boskovice;1072;572
+Tišnov;1015;621
+Rosice;1011;676
+Ivančice;1005;702
+Moravský Krumlov;992;721
+Pohořelice;1043;741
+Hustopeče;1095;754
+Slavkov u Brna;1129;682
+Šlapanice;1094;680
+Kuřim;1044;636
+Židlochovice;1067;721
+Brno;1062;672
+Jeseník;1198;328
+Šumperk;1150;417
+Zábřeh;1125;447
+Mohelnice;1137;480
+Litovel;1170;502
+Konice;1125;538
+Prostějov;1182;576
+Přerov;1265;583
+Lipník nad Bečvou;1294;553
+Hranice;1330;547
+Šternberk;1222;491
+Uničov;1189;484
+Olomouc;1218;537
+Přelouč;812;399
+Chrudim;868;426
+Hlinsko;896;487
+Polička;981;500
+Svitavy;1028;488
+Moravská Třebová;1072;483
+Lanškroun;1074;431
+Králíky;1096;382
+Žamberk;1025;383
+Ústí nad Orlicí;1008;417
+Vysoké Mýto;952;431
+Holice;915;385
+Litomyšl;1022;442
+Česká Třebová;984;457
+Pardubice;864;403
+Pacov;681;580
+Pelhřimov;733;596
+Humpolec;763;557
+Světlá nad Sázavou;777;517
+Havlíčkův Brod;818;538
+Chotěboř;839;500
+Žďár nad Sázavou;903;550
+Nové Město na Moravě;935;551
+Bystřice nad Pernštejnem;977;563
+Velké Meziříčí;922;618
+Náměšť nad Oslavou;955;665
+Třebíč;889;667
+Moravské Budějovice;872;719
+Telč;792;676
+Jihlava;822;605
+Kostelec nad Orlicí;965;368
+Rychnov nad Kněžnou;982;353
+Dobruška;953;317
+Nové Město nad Metují;949;294
+Náchod;956;267
+Broumov;995;213
+Trutnov;903;219
+Vrchlabí;828;206
+Nová Paka;801;246
+Jičín;768;266
+Nový Bydžov;796;331
+Hořice;831;287
+Dvůr Králové nad Labem;875;263
+Jaroměř;899;294
+Hradec Králové;877;339
+Nový Bor;581;158
+Česká Lípa;578;182
+Turnov;724;215
+Železný brod;749;197
+Semily;762;210
+Jilemnice;802;205
+Tanvald;755;167
+Jablonec nad Nisou;728;168
+Frýdlant;703;105
+Liberec;697;163
+Rumburk;582;94
+Varnsdorf;599;111
+Děčín;500;153
+Litoměřice;482;228
+Roudnice nad Labem;511;266
+Louny;405;284
+Žatec;342;294
+Podbořany;309;327
+Kadaň;276;275
+Chomutov;312;247
+Litvínov;362;205
+Teplice;413;189
+Most;365;236
+Bílina;397;221
+Lovosice;461;241
+Ústí nad Labem;460;186
+Aš;29;315
+Kraslice;103;286
+Cheb;66;365
+Sokolov;132;335
+Mariánské Lázně;141;409
+Ostrov;201;298
+Karlovy Vary;184;319
+Mnichovo Hradiště;677;242
+Mladá Boleslav;665;269
+Lysá nad Labem;645;345
+Nymburk;690;349
+Poděbrady;711;362
+Kolín;729;398
+Kutná Hora;747;424
+Čáslav;774;438
+Vlašim;656;504
+Votice;593;525
+Sedlčany;542;517
+Příbram;445;505
+Hořovice;425;456
+Dobříš;487;474
+Benešov;609;478
+Černošice;521;422
+Říčany;604;410
+Český Brod;643;384
+Brandýs nad Labem - Stará Boleslav;605;350
+Neratovice;569;323
+Mělník;564;288
+Kralupy nad Vltavou;521;328
+Slaný;468;331
+Kladno;472;356
+Rakovník;386;371
+Beroun;465;415
+Praha;561;383
+Blatná;413;589
+Strakonice;418;644
+Vimperk;387;711
+Prachatice;441;728
+Český Krumlov;516;793
+Kaplice;554;818
+Trhové Sviny;589;783
+Třeboň;623;733
+Dačice;785;708
+Jindřichův Hradec;681;687
+Soběslav;613;652
+Tábor;601;600
+Milevsko;525;588
+Týn nad Vltavou;541;661
+Písek;476;630
+Vodňany;483;684
+České Budějovice;554;737
